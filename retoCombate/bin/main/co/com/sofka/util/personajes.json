@@ -1,0 +1,22 @@
+{
+  "mago1": {"nombre":"Gandalf","puntosDeVida":100,"ataque":5,"defensa":3,"cuerpoACuerpo":false,"casa":"Casa Istari"},
+  "mago2": {"nombre":"Sauron","puntosDeVida":90,"ataque":6,"defensa":3,"cuerpoACuerpo":false,"casa":"Casa Maiar"},
+  "guerrero1": {"nombre":"Gimli","puntosDeVida":110,"ataque":4,"defensa":5,"cuerpoACuerpo":true,"casa":"Casa Aglarond"},
+  "guerrero2": {"nombre":"Aragorn","puntosDeVida":110,"ataque":5,"defensa":4,"cuerpoACuerpo":true,"casa":"Casa Dunedain"},
+  "arquero1": {"nombre":"Legolas","puntosDeVida":100,"ataque":6,"defensa":2,"cuerpoACuerpo":false,
+    "casa":"Dinastia Thranduil"},
+  "arquero2": {"nombre":"Elven","puntosDeVida":90,"ataque":6,"defensa":2,"cuerpoACuerpo":false,
+    "casa":"Dinastia Del Bosque"},
+  "picaro1": {"nombre":"Elrond","puntosDeVida":70,"ataque":7,"defensa":3,"cuerpoACuerpo":true,
+    "casa":"Dinastia Peredhil"},
+  "picaro2": {"nombre":"Haldir","puntosDeVida":80,"ataque":7,"defensa":2,"cuerpoACuerpo":true,
+    "casa":"Dinastia Rumil"},
+  "cazador1": {"nombre":"Azog","puntosDeVida":110,"ataque":5,"defensa":4,"cuerpoACuerpo":true,
+    "casa":"Clan Moria"},
+  "cazador2": {"nombre":"Lurtz","puntosDeVida":110,"ataque":4,"defensa":5,"cuerpoACuerpo":true,
+    "casa":"Clan uruk-hai"},
+  "brujo1": {"nombre":"Gothmog ","puntosDeVida":95,"ataque":8,"defensa":3,"cuerpoACuerpo":false,
+    "casa":"Clan Angmar"},
+  "brujo2": {"nombre":"Rey brujo ","puntosDeVida":35,"ataque":17,"defensa":2,"cuerpoACuerpo":false,
+    "casa":"Clan Nazgul"}
+}
